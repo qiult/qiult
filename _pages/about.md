@@ -31,9 +31,9 @@ My research focuses on 3D point cloud processing and its applications in smart a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PPCC-CD: Cross-Domain Plant Point Cloud Completion Based on Feature Low-Rank Mapping and Dual Frequency Prompts for Plant Phenotyping Analysis[C]International Conference on Intelligent Computing](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[PPCC-CD: Cross-Domain Plant Point Cloud Completion Based on Feature Low-Rank Mapping and Dual Frequency Prompts for Plant Phenotyping Analysis]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xiaomeng Li**, Haoxiang Sun, Yeqiang Liu, Xiaoqiang Zhang,Yanhao Ding,Zhenbo Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
