@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yining Pan"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/android-chrome-192x192.png"
   bio              : "Singapore University of Technology and Design"
   location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=l_6n20kAAAAJ"
-  email            : "yining_pan@mymail.sutd.edu.sg"
+  email            : "firstname_secondname@mymail.sutd.edu.sg"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
