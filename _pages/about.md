@@ -31,7 +31,7 @@ My research interests include multi-modal scene understanding and generation. Cu
 - *2025.05*: &nbsp;🎉🎉🎉 One paper is accepted by ICML 2025!
 - *2025.05*: &nbsp;My new homepage is now live!
 
-#<!-- Paper 1 -->
+<!-- Paper 1 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -41,6 +41,7 @@ My research interests include multi-modal scene understanding and generation. Cu
   </div>
   <div class='paper-box-text' markdown="1">
     [[ICML 2025] How Do Images Align and Complement LiDAR? Towards a Harmonized Multi-modal 3D Panoptic Segmentation](Paper(Coming-soon))  
+    
     **Yining Pan**, Qiongjie Cui, Xulei Yang, Na Zhao
   </div>
 </div>
@@ -55,11 +56,12 @@ My research interests include multi-modal scene understanding and generation. Cu
   </div>
   <div class='paper-box-text' markdown="1">
     [[CVPR 2024] InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490)  
+    
     H. Yuan, S. Zhang, X. Wang, Y. Wei, T. Feng, **Yining Pan**, Y. Zhang, Z. Liu, S. Albanie, D. Ni
   </div>
 </div>
 
-<!-- Paper 2 -->
+<!-- Paper 3 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -69,6 +71,7 @@ My research interests include multi-modal scene understanding and generation. Cu
   </div>
   <div class='paper-box-text' markdown="1">
     [[ICCV 2023] RLIPv2: Fast Scaling of Relational Language-Image Pre-training](https://arxiv.org/abs/2308.09351)
+    
     H. Yuan, S. Zhang, X. Wang, S. Albanie, **Yining Pan**, T. Feng, J. Jiang, D. Ni, Y. Zhang, D. Zhao
 
   </div>
