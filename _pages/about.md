@@ -31,7 +31,22 @@ My research interests include multi-modal scene understanding and generation. Cu
 - *2025.05*: &nbsp;🎉🎉🎉 One paper is accepted by ICML 2025!
 - *2025.05*: &nbsp;My new homepage is now live!
 
+# 📝 Publications
+
 <!-- Paper 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 </div><img src='images/papers/3-IAL-ICML25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[[ICML 2025] How Do Images Align and Complement LiDAR? Towards a Harmonized Multi-modal 3D Panoptic Segmentation](Paper(Coming-soon))
+
+**Yining Pan**, Qiongjie Cui, Xulei Yang, Na Zhao
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
+<!-- Paper 1
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -44,7 +59,7 @@ My research interests include multi-modal scene understanding and generation. Cu
     
     **Yining Pan**, Qiongjie Cui, Xulei Yang, Na Zhao
   </div>
-</div>
+</div> -->
 
 <!-- Paper 2 -->
 <div class='paper-box'>
