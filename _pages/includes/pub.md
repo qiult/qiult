@@ -1,5 +1,7 @@
 # 📝 Publications
 
+A full publication list is available on my [google scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=l_6n20kAAAAJ) page.
+
 <!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 </div><img src='images/papers/3-IAL-ICML25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
