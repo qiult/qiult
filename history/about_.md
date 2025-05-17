@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a second-year PhD student in [IMPL Lab](https://impl2023.github.io/), Singapore University of Technology and Design (SUTD), fortunately supervised by Prof [Na Zhao](https://na-z.github.io/).
+I am now a second-year PhD student in [IMPL Lab](https://impl2023.github.io/), Singapore University of Technology and Design (SUTD), fortunately supervised by Prof. [Na Zhao](https://na-z.github.io/).
 I am also supported by the Agency for Science, Technology and Research (A*STAR) [SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa) scholarship and am grateful to be supervised by Prof. [Xulei Yang](https://www.google.com/search?q=xulei+yang&oq=xu&gs_lcrp=EgZjaHJvbWUqEAgCEEUYExgnGDsYgAQYigUyBggAEEUYOTIGCAEQRRhAMhAIAhBFGBMYJxg7GIAEGIoFMggIAxBFGCcYOzIGCAQQRRg7MgoIBRAAGLEDGIAEMgYIBhBFGD0yBggHEEUYPdIBCDMyMjVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#:~:text=Xulei%20Yang%20%2D%20Singapore,%E6%82%A8%E7%BB%8F%E5%B8%B8%E8%AE%BF%E9%97%AE).
 Prior to this, I obtained my Master’s degree from Zhejiang University in 2023 and worked as a research intern at Alibaba DAMO Academy.
 
