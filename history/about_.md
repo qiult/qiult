@@ -76,7 +76,7 @@ H. Yuan, S. Zhang, X. Wang, S. Albanie, **Yining Pan**, T. Feng, J. Jiang, D. Ni
 - ZJU Graduate of Merit, Triple-A Graduate.
 - National Undergraduate Electronics Design Contest, First Prize.
 - China College Students’ ‘Internet+’ Innovation and Entrepreneurship Competition, First Prize.
-- Win the People Scholarship for three consecutive years (Top 3%).
+- Win the People Scholarship for three consecutive years (Top 1%).
 
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
